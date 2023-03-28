@@ -9,6 +9,7 @@
 
 Welcome to the Earth Analytics `Python` Environment Repository! Here you will find a conda environment that can be installed on your computer using a `.yaml` file. You will also find a docker image that can be used to actually run the environment in a containerized environment.
 
+New Line
 
 ## Contributors:
 
